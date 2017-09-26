@@ -1,7 +1,8 @@
 {
 	"item": [
 		{
-			"image": "foo.png"
+			"image": "foo.png",
+			"content": "Foo"
 		}
 	]
 }
